@@ -1,4 +1,4 @@
-#Written BY ozan INAN
+#SJUNIOR DEV OZAN INAN
 #Programming for the Puzzled -- Srini Devadas
 #You Will All Conform
 #Input is a vector of F's and B's, in terms of forwards and backwards caps
@@ -66,3 +66,4 @@ pleaseConformOpt(caps)
 pleaseConformOnepass(caps)
 pleaseConformOnepass(caps0)
 print(len(caps0)) #Had to remember that the len of a empty list is 0 and not NULL, c and python get messed up sometimes
+#dummychnage
